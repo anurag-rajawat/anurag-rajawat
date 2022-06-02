@@ -26,7 +26,7 @@ I’m an Open-Source enthusiast and I enjoy learning new things.
 
 <br />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anurag-rajawat&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=anurag-rajawat&hide=issues&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 <br />
 
