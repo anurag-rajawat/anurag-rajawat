@@ -1,36 +1,34 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Anurag!](https://github.com/anurag-rajawat)
-I’m an Open-Source enthusiast and I enjoy learning new things.
-<br />
+## Hey there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+I'm **Anurag** a self-taught developer and a DevOps/Automate-everything Approach Lover 💻
 
-<a href="mailto:anuragsinghrajawat22@gmail.com" color="red">
-  <img align="left" alt="medium" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+I enjoy learning new things.
 
-<a href="https://twitter.com/anuragrajawat22">
-   <img align="left" alt="medium" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
+Feel free to contact me in any case and if I will be able, I will be happy to help you 🙂.
 
-<br />
-<br />
+## Let's [connect 💬](https://linkfree.eddiehub.io/anurag-rajawat)
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-Pycharm-informational?style=flat&logo=pycharm&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
+<div align="center">
+	<img height="60" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java" />
+	<img height="60" src="https://user-images.githubusercontent.com/25181517/192149581-88194d20-1a37-4be8-8801-5dc0017ffbbe.png" alt="Go" title="Go" />
+	<img height="60" src="https://user-images.githubusercontent.com/25181517/117533873-484d4480-afef-11eb-9fad-67c8605e3592.png" alt="JUnit" title="JUnit" />
+	<img height="60" src="https://user-images.githubusercontent.com/25181517/183892181-ad32b69e-3603-418c-b8e7-99e976c2a784.png" alt="mocikto" title="mocikto" />
+	<img height="60" src="https://user-images.githubusercontent.com/25181517/192158606-7c2ef6bd-6e04-47cf-b5bc-da2797cb5bda.png" alt="bash" title="bash" />
+	<img height="60" src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" alt="InteliJ" title="InteliJ" />
+	<img height="60" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code" />
+	<img height="60" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" title="Docker" />
+	<img height="60" src="https://user-images.githubusercontent.com/25181517/182534006-037f08b5-8e7b-4e5f-96b6-5d2a5558fa85.png" alt="Kubernetes" title="Kubernetes" />
+	<img height="60" src="https://user-images.githubusercontent.com/25181517/183911547-990692bc-8411-4878-99a0-43506cdb69cf.png" alt="GCP" title="GCP" />
+  <img height="60" src="https://edent.github.io/SuperTinyIcons/images/svg/linux.svg" alt="GNU/Linux" title="GNU/Linux" />
+    <img height="60" src="https://edent.github.io/SuperTinyIcons/images/svg/apple.svg" alt="macOS" title="macOS" />
+</div>
 
+<br/>
+
+![trophy](https://github-profile-trophy.vercel.app/?username=anurag-rajawat&theme=juicyfresh&rank=-C,-B&no-bg=true&no-frame=true&row=2&column=-1)
 <br />
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=anurag-rajawat&hide=issues&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
-
-<br />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anurag-rajawat&layout=compact)](https://github.com/anurag-rajawat/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anurag-rajawat&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/anurag-rajawat/github-readme-stats)
 
 <br />
 
