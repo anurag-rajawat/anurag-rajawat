@@ -24,9 +24,7 @@ Feel free to contact me in any case and if I will be able, I will be happy to he
 </div>
 
 <br/>
-
-![trophy](https://github-profile-trophy.vercel.app/?username=anurag-rajawat&theme=juicyfresh&rank=-C,-B&no-bg=true&no-frame=true&row=2&column=-1)
-<br />
+<br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anurag-rajawat&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/anurag-rajawat/github-readme-stats)
 
