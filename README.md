@@ -23,11 +23,6 @@ Feel free to contact me in any case and if I will be able, I will be happy to he
     <img height="60" src="https://edent.github.io/SuperTinyIcons/images/svg/apple.svg" alt="macOS" title="macOS" />
 </div>
 
-<br/>
-<br/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anurag-rajawat&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/anurag-rajawat/github-readme-stats)
-
 <br />
 
 ![](https://komarev.com/ghpvc/?username=anurag-rajawat&color=brightgreen&style=flat-square&label=Visitors)
