@@ -39,6 +39,11 @@ I'm Anurag, a passionate software engineer from India 🇮🇳 with a strong int
 ---
 ## 📕 Recent writing
 <!-- BLOG-POST-LIST:START -->
+- [The LFX Mentorship](https://anurag-rajawat.hashnode.dev/the-lfx-mentorship)
+- [Service Management in Linux](https://anurag-rajawat.hashnode.dev/service-management-in-linux)
+- [Package Management in Linux](https://anurag-rajawat.hashnode.dev/package-management-in-linux)
+- [Data Compression in Linux](https://anurag-rajawat.hashnode.dev/data-compression-in-linux)
+- [Redirection and Pipes in Linux](https://anurag-rajawat.hashnode.dev/redirection-and-pipes-in-linux)
 <!-- BLOG-POST-LIST:END -->
 
 ## ✍️ Random Dev Quote
