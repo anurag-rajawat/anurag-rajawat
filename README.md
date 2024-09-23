@@ -39,11 +39,11 @@ I'm Anurag, a passionate software engineer from India 🇮🇳 with a strong int
 ---
 ## 📕 Recent writing
 <!-- BLOG-POST-LIST:START -->
+- [Building a Real-world Kubernetes Operator: Part 5](https://anurag-rajawat.hashnode.dev/building-a-real-world-kubernetes-operator-part-5)
 - [Building a Real-world Kubernetes Operator: Part - 4](https://anurag-rajawat.hashnode.dev/building-a-real-world-kubernetes-operator-part-4)
 - [Building a Real-world Kubernetes Operator: Part - 3](https://anurag-rajawat.hashnode.dev/building-a-real-world-kubernetes-operator-part-3)
 - [Building a Real-world Kubernetes Operator: Part - 2](https://anurag-rajawat.hashnode.dev/building-a-real-world-kubernetes-operator-part-2)
 - [Building a Real-world Kubernetes Operator](https://anurag-rajawat.hashnode.dev/building-a-real-world-kubernetes-operator)
-- [The LFX Mentorship](https://anurag-rajawat.hashnode.dev/the-lfx-mentorship)
 <!-- BLOG-POST-LIST:END -->
 
 ## ✍️ Random Dev Quote
