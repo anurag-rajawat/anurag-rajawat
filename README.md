@@ -1,25 +1,6 @@
 <h1 align="center">Hello folks! 👋</h1>
 
-I'm Anurag, a passionate software engineer from India 🇮🇳 with a strong interest in Microservice and Cloud native application.
-
-## 🧰 Languages and Tools
-
-<p>
-    <img width="15%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" />
-    <img width="15%" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" />
-    <img width="15%" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" />
-    <img width="15%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" />
-    <img width="15%" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg" />
-    <img width="15%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg" />
-    <img width="15%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg" />
-    <img width="15%" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg" />
-    <img width="15%" src="https://www.vectorlogo.zone/logos/redhat/redhat-ar21.svg" />
-    <img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" />
-    <img width="15%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" />
-    <img width="15%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg" />
-    <img width="15%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" />
-    <img width="15%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" />
-</p>
+I'm Anurag, a software engineer from India 🇮🇳 with a strong interest in Microservice and Cloud native application.
 
 <br>
 <p align="left"> <a href="https://twitter.com/anuragrajawat22" target="blank"><img src="https://img.shields.io/twitter/follow/anuragrajawat22?logo=twitter&style=for-the-badge" alt="anuragrajawat22" /></a> </p>
