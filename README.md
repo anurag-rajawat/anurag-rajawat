@@ -20,11 +20,11 @@ I'm Anurag, a software engineer from India 🇮🇳 with a strong interest in Mi
 ---
 ## 📕 Recent writing
 <!-- BLOG-POST-LIST:START -->
+- [Building an Envoy Wasm Plugin in Rust](https://anurag-rajawat.hashnode.dev/building-an-envoy-wasm-plugin-in-rust)
 - [Building a Real-world Kubernetes Operator: Part 7](https://anurag-rajawat.hashnode.dev/building-a-real-world-kubernetes-operator-part-7)
 - [Building a Real-world Kubernetes Operator: Part 6](https://anurag-rajawat.hashnode.dev/building-a-real-world-kubernetes-operator-part-6)
 - [Building a Real-world Kubernetes Operator: Part 5](https://anurag-rajawat.hashnode.dev/building-a-real-world-kubernetes-operator-part-5)
 - [Building a Real-world Kubernetes Operator: Part - 4](https://anurag-rajawat.hashnode.dev/building-a-real-world-kubernetes-operator-part-4)
-- [Building a Real-world Kubernetes Operator: Part - 3](https://anurag-rajawat.hashnode.dev/building-a-real-world-kubernetes-operator-part-3)
 <!-- BLOG-POST-LIST:END -->
 
 ## ✍️ Random Dev Quote
