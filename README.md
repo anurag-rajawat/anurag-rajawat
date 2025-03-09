@@ -1,6 +1,6 @@
 <h1 align="center">Hello folks! 👋</h1>
 
-I'm Anurag, a software engineer from India 🇮🇳 with a strong interest in Microservice and Cloud native application.
+I'm Anurag, a Software Engineer with a keen interest in automation, hacking, and exploring different tools and technologies.
 
 <br>
 <p align="left"> <a href="https://twitter.com/anuragrajawat22" target="blank"><img src="https://img.shields.io/twitter/follow/anuragrajawat22?logo=twitter&style=for-the-badge" alt="anuragrajawat22" /></a> </p>
@@ -31,5 +31,4 @@ I'm Anurag, a software engineer from India 🇮🇳 with a strong interest in Mi
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=anurag-rajawat&icon=9&color=0)](https://visitcount.itsvg.in)
-
+![](https://komarev.com/ghpvc/?username=anurag-rajawat&label=Visitors)
