@@ -1,13 +1,13 @@
 <h1 align="center">Hello folks! 👋</h1>
 
-I'm Anurag, a Software Engineer with a keen interest in automation, hacking, and exploring different tools and technologies.
+I'm Anurag, an Engineer with a keen interest in automation, hacking, and exploring different tools and technologies.
 
 <br>
 <p align="left"> <a href="https://twitter.com/anuragrajawat22" target="blank"><img src="https://img.shields.io/twitter/follow/anuragrajawat22?logo=twitter&style=for-the-badge" alt="anuragrajawat22" /></a> </p>
 
-- 🔭 I’m currently working on [Nimbus](https://github.com/5GSEC/nimbus/) and [SentryFlow](https://github.com/5GSEC/SentryFlow)
+- 🔭 I’m currently working as a Founding Software Engineer at [StepSecurity](https://github.com/step-security).
 
-- 📝 I write articles on [Hashnode](https://anurag-rajawat.hashnode.dev)
+- 📝 I write articles on [Hashnode](https://anurag-rajawat.hashnode.dev).
 <h3 align="left">Connect with me:</h3>
 
 ---
